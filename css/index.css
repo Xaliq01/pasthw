@@ -1,0 +1,206 @@
+body{
+    background-color: #C4C3FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    width: 999px;
+    min-height: 800px;
+    float: left;
+    /* background-color: black; */
+}
+.header{
+    width: 999px;
+    min-height: 100px;
+    float: left;
+    /* background-color: #FFDF88; */
+
+}
+.center{
+    width:999px ;
+    min-height: 450px;
+    float: left;
+    background-color:#B75E4C ;
+
+}
+.words{
+    width:999px ;
+    min-height: 250px;
+    float: left;
+    background-color:white ;
+}
+.icon{
+    width:999px ;
+    min-height: 25px;
+    float: left;
+    background-color:#586BB7 ;
+}
+.marketer{
+    width:999px ;
+    min-height: 75px;
+    float: left;
+    background-color: white
+}
+.left{
+    width:600px ;
+    min-height:450px ;
+    float: left;
+    /* background-color:#E3FFD4 ; */
+}
+.right{
+    width:399px ;
+    min-height:450px ;
+    float: left;
+    /* background-color: #FFCA9C; */
+}
+.slova{
+    width:333px ;
+    min-height: 250px;
+    float: left;
+    /* background-color: #32FF6F; */
+    
+}
+.icons{
+    width:300px ;
+    min-height:25px ;
+    float: left;
+    /* background-color:red ; */
+    padding-left:90px;
+    box-sizing: border-box;
+}
+.number{
+    width: 300px;
+    min-height: 25px;
+    float: left;
+    /* background-color: green; */
+    padding-left: 215px;
+    box-sizing: border-box;
+}
+.gmail{
+    width: 208px;
+    min-height:25px ;
+    float: left;
+    /* background-color: blue; */
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.get{
+    width: 191px;
+    min-height: 25px;
+    float: left;
+    /* background-color: blueviolet; */
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.up{
+    width: 600px;
+    min-height: 225px;
+    float: left;
+    /* background-color:#FFEF92 ; */
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.down{
+    width:600px ;
+    min-height:225px ;
+    float: left;
+    /* background-color:#FF8EC3 ; */
+    text-align: center;
+    padding:0 30px ;
+    box-sizing: border-box;
+}
+.a_1{
+    /* width:333px ;
+    min-height: 250px;
+    float: left; */
+    background-color: #89CFF0;
+}
+.a_2{
+    /* width:333px ;
+    min-height: 250px;
+    float: left; */
+    /* background-color: #F07427; */
+}
+.a_icon{
+    width: 133px;
+    min-height:250px ;
+    float: left;
+    /* background-color: #F0EAD6; */
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.a_word{
+    width:200px ;
+    min-height:125px ;
+    float: left;
+    /* background-color:#D4F1F9 ; */
+    font-size:medium;
+    display: flex;
+    align-items: end;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.a_slova{
+    width: 200px;
+    min-height: 125px;
+    float: left;
+    /* background-color:#00468C ; */
+    padding: 20px 0 0 0;
+    box-sizing: border-box;
+    font-size: small;
+}
+.img_i{
+    width:260px ;
+    min-height:260px;
+    margin: 80px 62px;
+    border-radius: 50%;
+    border: dashed 2px white;
+    position:absolute;
+}
+.r_Icon{
+    width:333px ;
+    min-height:75px ;
+    float: left;
+    /* background-color:#FFE4E1 ; */
+    font-size: larger;
+    padding:  20px 40px;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.home{
+    width:666px ;
+    min-height: 75px;
+    float: left;
+    /* background-color: #39FF14; */
+}
+.r_home{
+    width:100px ;
+    min-height:75px ;
+    float: left;
+    /* background-color:#B784A7 ; */
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dr{
+    width:3px ;
+    height:3px ;
+    float: left;
+    border:solid 2px black ;
+    border-color: transparent transparent gray gray;
+    transform: rotate(315deg)
+}
+/* .img_e{
+    width: 60px;
+    min-height:60px ;
+    float: left;
+    border-radius: 50%;
+     background-color: transparent; 
+    object-fit: contain;
+}*/
